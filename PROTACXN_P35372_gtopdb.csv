@@ -1,0 +1,89 @@
+﻿protacxn,geneid,ligand,ligandid,cid,primarytarget,type,action,units,affinity,pmids,targetid,targetname,targetspecies,genesymbol,cmpdname,dois
+   P35372,4988,2F-MT-45,10725,132990975,No,Agonist,Agonist,pEC50,6.7,32246840,319,μ receptor,Human,OPRM1,1-Cyclohexyl-4-(1-(2-fluorophenyl)-2-phenylethyl)piperazine,10.1111/bph.15064
+P35372,4988,3F-MT-45,10726,132990929,No,Agonist,Agonist,pEC50,6.21,32246840,319,μ receptor,Human,OPRM1,1-Cyclohexyl-4-[1-(3-fluorophenyl)-2-phenylethyl]piperazine,10.1111/bph.15064
+P35372,4988,4F-MT-45,10727,132990963,No,Agonist,Agonist,pEC50,6.77,32246840,319,μ receptor,Human,OPRM1,1-Cyclohexyl-4-[1-(4-fluorophenyl)-2-phenylethyl]piperazine,10.1111/bph.15064
+P35372,4988,ADL5747,9003,11200189,No,Agonist,Agonist,pKi,7.74,19694468,319,μ receptor,Human,OPRM1,ADL-5747 free base,10.1021/jm900773n
+P35372,4988,ADL5859,9004,11417954,No,Agonist,Agonist,pKi,7.49,18788723,319,μ receptor,Human,OPRM1,"Benzamide, N,N-diethyl-4-(5-hydroxyspiro(2H-1-benzopyran-2,4'-piperidin)-4-yl)-",10.1021/jm8008986
+P35372,4988,AR-M1000390,9005,9841259,No,Agonist,Agonist,pIC50,5.42,NULL,319,μ receptor,Human,OPRM1,"N,N-diethyl-4-(phenyl(piperidin-4-ylidene)methyl)benzamide",NULL
+P35372,4988,BW373U86,9002,119029,No,Agonist,Agonist,pKi,6.59,18788723,319,μ receptor,Human,OPRM1,"4-[(R)-[(2S,5R)-2,5-dimethyl-4-prop-2-enylpiperazin-1-yl]-(3-hydroxyphenyl)methyl]-N,N-diethylbenzamide",10.1021/jm8008986
+P35372,4988,cebranopadol,8866,11848225,No,Agonist,Agonist,pKi,9.15,24713140,319,μ receptor,Human,OPRM1,Cebranopadol,10.1124/jpet.114.213694
+P35372,4988,compound 3 [PMID: 23134120],9190,71452040,No,Agonist,Agonist,pKi,6.08,23134120,319,μ receptor,Human,OPRM1,3-(2-((Cyclopropylmethyl)(phenethyl)amino)ethyl)phenol,10.1021/jm301258w
+P35372,4988,eluxadoline,7691,11250029,No,Agonist,Agonist,pKi,8.77,22695132,319,μ receptor,Human,OPRM1,Eluxadoline,10.1016/j.bmcl.2012.05.042
+P35372,4988,HS665,9189,71452041,No,Agonist,Agonist,pKi,6.27,23134120,319,μ receptor,Human,OPRM1,3-(2-((Cyclobutylmethyl)(phenethyl)amino)ethyl)phenol,10.1021/jm301258w
+P35372,4988,hydrocodone,7081,5284569,Yes,Agonist,Agonist,pKi,8.7,22439881,319,μ receptor,Human,OPRM1,Hydrocodone,10.1021/jm3001086
+P35372,4988,hydromorphone,7082,5284570,Yes,Agonist,Agonist,pKi,9.55,19282177,319,μ receptor,Human,OPRM1,Hydromorphone,10.1016/j.bmcl.2009.02.078
+P35372,4988,ICI-199441,11691,3082718,No,Agonist,Agonist,pKi,7.28,18487043,319,μ receptor,Human,OPRM1,"2-(3,4-dichlorophenyl)-N-methyl-N-[(1S)-1-phenyl-2-(1-pyrrolidinyl)ethyl]acetamide",10.1016/j.bmcl.2007.11.116
+P35372,4988,levorphanol,7595,5359272,Yes,Agonist,Agonist,pIC50,9.89,12502358,319,μ receptor,Human,OPRM1,Levorphanol,10.1021/jm020164l
+P35372,4988,loperamide,7215,3955,Yes,Agonist,Agonist,pKi,9.28,15454210,319,μ receptor,Human,OPRM1,Loperamide,10.1016/j.bmcl.2004.08.032
+P35372,4988,methadone,5458,4095,Yes,Agonist,Agonist,pIC50,8.39,11585443,319,μ receptor,Human,OPRM1,Methadone,10.1021/jm010877o
+P35372,4988,MT-45,10724,431865,No,Agonist,Agonist,pEC50,4.64,32246840,319,μ receptor,Human,OPRM1,"1-Cyclohexyl-4-(1,2-diphenylethyl)piperazine",10.1111/bph.15064
+P35372,4988,oxycodegol,10652,73673720,No,Agonist,Agonist,pKi,6.63,28778859,319,μ receptor,Human,OPRM1,Loxicodegol,10.1124/jpet.117.243030
+P35372,4988,pethidine,7221,4058,Yes,Agonist,Agonist,pIC50,6.5,11585443,319,μ receptor,Human,OPRM1,Meperidine,10.1021/jm010877o
+P35372,4988,SCH221510,8868,9887077,No,Agonist,Agonist,pKi,7.19,18492950,319,μ receptor,Human,OPRM1,8-[Bis(2-methylphenyl)methyl]-3-phenyl-8-azabicyclo[3.2.1]octan-3-ol,10.1124/jpet.108.136937
+P35372,4988,SR16835,8867,49843739,No,Agonist,Agonist,pKi,7.1,19773529,319,μ receptor,Human,OPRM1,"1-[1-(2,3,3a,4,5,6-hexahydro-1H-phenalen-1-yl)piperidin-4-yl]-3H-indol-2-one",10.1124/jpet.109.157446
+P35372,4988,SRI22141,11694,71460944,No,Agonist,Agonist,pEC50,9.7,31201990,319,μ receptor,Human,OPRM1,"(1S,2S,10R,18R)-6-(4-chlorophenyl)-19-methyl-2-(3-phenylpropoxy)-11-oxa-8,19-diazahexacyclo[10.9.1.01,10.02,18.04,9.016,22]docosa-4(9),5,7,12,14,16(22)-hexaen-13-ol",10.1016/j.jpain.2019.05.017
+P35372,4988,SRI22141,11694,71460944,No,Agonist,Agonist,pKi,7.71,31201990,319,μ receptor,Human,OPRM1,"(1S,2S,10R,18R)-6-(4-chlorophenyl)-19-methyl-2-(3-phenylpropoxy)-11-oxa-8,19-diazahexacyclo[10.9.1.01,10.02,18.04,9.016,22]docosa-4(9),5,7,12,14,16(22)-hexaen-13-ol",10.1016/j.jpain.2019.05.017
+P35372,4988,tapentadol,7477,9838022,Yes,Agonist,Agonist,pKi,6.8,17656655,319,μ receptor,Human,OPRM1,Tapentadol,10.1124/jpet.107.126052
+P35372,4988,tramadol,8286,5523,No,Agonist,Agonist,pKi,5.8,19282177,319,μ receptor,Human,OPRM1,Ultram,10.1016/j.bmcl.2009.02.078
+P35372,4988,UFP-505,9838,10864183,No,Agonist,Agonist,pKi,7.79,22194444|29524334,319,μ receptor,Human,OPRM1,H-Dmt-Tic-Gly-NH-Bzl,10.1093/bja/aer377|10.1111/bph.14199
+P35372,4988,UFP-512,9006,10918703,No,Agonist,Agonist,pKi,8,18069089,319,μ receptor,Human,OPRM1,"(3S)-3-[[(3S)-2-[(2S)-2-amino-3-(4-hydroxy-2,6-dimethylphenyl)propanoyl]3,4-dihydro-1H-isoquinoline-3-carbonyl]amino]-3-(1H-benzimidazol-2-yl)propanoic acid",10.1016/j.peptides.2007.10.012
+P35372,4988,PZM21,9286,121596705,Yes,Agonist,Biased agonist,pEC50,8.34,27533032,319,μ receptor,Human,OPRM1,1-((S)-2-(dimethylamino)-3-(4-hydroxyphenyl)propyl)-3-((S)-1-(thiophen-3-yl)propan-2-yl)urea,10.1038/nature19112
+P35372,4988,PZM21,9286,121596705,Yes,Agonist,Biased agonist,pKi,8.96,27533032,319,μ receptor,Human,OPRM1,1-((S)-2-(dimethylamino)-3-(4-hydroxyphenyl)propyl)-3-((S)-1-(thiophen-3-yl)propan-2-yl)urea,10.1038/nature19112
+P35372,4988,codeine,1673,5284371,Yes,Agonist,Full agonist,pKi,6.9,9686407,319,μ receptor,Human,OPRM1,Codeine,NULL
+P35372,4988,DADLE,1607,6917707,No,Agonist,Full agonist,pKi,8.7,9686407,319,μ receptor,Human,OPRM1,Dadle,NULL
+P35372,4988,DAMGO,1647,5462471,No,Agonist,Full agonist,pKi,9.3,9686407|6263640,319,μ receptor,Human,OPRM1,Damgo,10.1016/0014-2999(81)90364-2
+P35372,4988,dihydromorphine,1616,5359421,No,Agonist,Full agonist,pKi,8.8,9686407,319,μ receptor,Human,OPRM1,Dihydromorphine,NULL
+P35372,4988,DSLET,1609,107847,No,Agonist,Full agonist,pKi,8.2,9686407,319,μ receptor,Human,OPRM1,Dslet,NULL
+P35372,4988,dynorphin A,1620,16133805,No,Agonist,Full agonist,pKi,8.1,9686407,319,μ receptor,Human,OPRM1,Dynorphin A (swine),NULL
+P35372,4988,dynorphin A-(1-13),1619,25077992,No,Agonist,Full agonist,pKi,8.3,9686407,319,μ receptor,Human,OPRM1,H-Tyr-Gly-Gly-Phe-Leu-Arg-Arg-Ile-Arg-Pro-Lys-Leu-DL-Lys-OH,NULL
+P35372,4988,dynorphin A-(1-8),1621,108135,No,Agonist,Full agonist,pKi,8.4,9686407,319,μ receptor,Human,OPRM1,Tyrosyl-glycyl-glycyl-phenylalanyl-leucyl-arginyl-arginyl-isoleucine,NULL
+P35372,4988,dynorphin B,1622,25075991,No,Agonist,Full agonist,pKi,8.5,9686407,319,μ receptor,Human,OPRM1,Dynorphin B,NULL
+P35372,4988,endomorphin-1,1623,5311080,No,Agonist,Full agonist,pKi,8.3,9849897|9087409,319,μ receptor,Human,OPRM1,Endomorphin-1,10.1016/s0014-5793(98)01362-3|10.1038/386499a0
+P35372,4988,ethylketocyclazocine,1602,42800,No,Agonist,Full agonist,pKi,9.5,9686407,319,μ receptor,Human,OPRM1,"3-Cyclopropylmethyl-5-ethyl-8-hydroxy-11-methyl-3,4,5,6-tetrahydro-2H-2,6-methano-benzo[d]azocin-1-one",NULL
+P35372,4988,etonitazene,1624,13493,No,Agonist,Full agonist,pKi,9.7,9686407,319,μ receptor,Human,OPRM1,Etonitazene,NULL
+P35372,4988,etorphine,1625,518962,No,Agonist,Full agonist,pKi,9.5,9686407,319,μ receptor,Human,OPRM1,"6,14-Ethenomorphinan-7-methanol, 4,5-epoxy-3-hydroxy-6-methoxy-alpha,17-dimethyl-alpha-propyl-, [5alpha,7alpha(R)]-",NULL
+P35372,4988,fentanyl,1626,3345,Yes,Agonist,Full agonist,pKi,9.2,9686407,319,μ receptor,Human,OPRM1,Fentanyl,NULL
+P35372,4988,(-)-methadone,1605,22267,No,Agonist,Full agonist,pKi,9.2,9686407,319,μ receptor,Human,OPRM1,Levomethadone,NULL
+P35372,4988,morphine,1627,5288826,Yes,Agonist,Full agonist,pKi,9,9686407|2549383,319,μ receptor,Human,OPRM1,Morphine,NULL
+P35372,4988,normorphine,1630,5462508,No,Agonist,Full agonist,pKi,8.8,9686407,319,μ receptor,Human,OPRM1,Normorphine,NULL
+P35372,4988,PL017,1671,115335,No,Agonist,Full agonist,pKi,8.2,9686407|6313901,319,μ receptor,Human,OPRM1,3-N-Me-Phe-morphiceptin,NULL
+P35372,4988,sufentanil,3534,41693,Yes,Agonist,Full agonist,pKi,9.9,21215785,319,μ receptor,Human,OPRM1,Sufentanil,10.1016/j.yrtph.2010.12.007
+P35372,4988,BU08028,9294,50922685,No,Agonist,Partial agonist,pKi,8.67,21177476,319,μ receptor,Human,OPRM1,"(2S)-2-[(5R,6R,7R,14S)-N-cyclopropylmethyl-4,5-epoxy-6,14-ethano-3-hydroxy-6 methoxymorphinan-7-yl]-3,3-dimethylpentan-2-ol",10.1124/jpet.110.175620
+P35372,4988,buprenorphine,1670,644073,Yes,Agonist,Partial agonist,pKi,8.8,9686407,319,μ receptor,Human,OPRM1,Buprenorphine,NULL
+P35372,4988,butorphanol,7591,5361092,Yes,Agonist,Partial agonist,pKi,9.92,18674902,319,μ receptor,Human,OPRM1,Butorphanol,10.1016/j.bmcl.2008.07.054
+P35372,4988,(-)-cyclazocine,1604,21779964,No,Agonist,Partial agonist,pKi,10,9686407,319,μ receptor,Human,OPRM1,(-)-Cyclazocine,NULL
+P35372,4988,[Leu]enkephalin,1613,3903,No,Agonist,Partial agonist,pKi,8.1,9686407,319,μ receptor,Human,OPRM1,[Leu]enkephalin,NULL
+P35372,4988,nalbuphine,1663,5311304,Yes,Agonist,Partial agonist,pKi,8.8,19282177,319,μ receptor,Human,OPRM1,Nalbuphine,10.1016/j.bmcl.2009.02.078
+P35372,4988,(-)-pentazocine,1606,441278,No,Agonist,Partial agonist,pKi,8.4,9686407,319,μ receptor,Human,OPRM1,Pentazocine,NULL
+P35372,4988,BMS-986123,9159,121231404,No,Allosteric modulator,Neutral,pKB,6,23754417,319,μ receptor,Human,OPRM1,"N,N-dihydroxy-2-methoxy-5-[3-(4-methylphenyl)sulfonyl-1,3-thiazolidin-2-yl]aniline",10.1073/pnas.1300393110
+P35372,4988,BMS-986124,9160,121231405,No,Allosteric modulator,Neutral,pKB,5.7,23754417,319,μ receptor,Human,OPRM1,"2-(4-Bromo-2-methoxyphenyl)-3-(4-chlorobenzenesulfonyl)-1,3-thiazolidine",10.1073/pnas.1300393110
+P35372,4988,BMS-986121,9156,121231403,No,Allosteric modulator,Positive,pKB,5.7,23754417,319,μ receptor,Human,OPRM1,"N-(2,6-dichlorophenyl)-4-[4-(dihydroxyamino)phenyl]-1,3-thiazol-2-amine",10.1073/pnas.1300393110
+P35372,4988,BMS-986121,9156,121231403,No,Allosteric modulator,Positive,pEC50,6,23754417,319,μ receptor,Human,OPRM1,"N-(2,6-dichlorophenyl)-4-[4-(dihydroxyamino)phenyl]-1,3-thiazol-2-amine",10.1073/pnas.1300393110
+P35372,4988,BMS-986122,9157,4644453,No,Allosteric modulator,Positive,pEC50,5.52,23754417,319,μ receptor,Human,OPRM1,"2-(3-Bromo-4-methoxyphenyl)-3-(4-chlorophenyl)sulfonyl-1,3-thiazolidine",10.1073/pnas.1300393110
+P35372,4988,BMS-986122,9157,4644453,No,Allosteric modulator,Positive,pKB,5.3,23754417,319,μ receptor,Human,OPRM1,"2-(3-Bromo-4-methoxyphenyl)-3-(4-chlorophenyl)sulfonyl-1,3-thiazolidine",10.1073/pnas.1300393110
+P35372,4988,alvimopan,7471,5488548,Yes,Antagonist,Antagonist,pKi,9.33,18313920,319,μ receptor,Human,OPRM1,Alvimopan,10.1016/j.bmcl.2008.01.106
+P35372,4988,AT-076,8870,91938095,No,Antagonist,Antagonist,pKi,8.78,9686407|25635572,319,μ receptor,Human,OPRM1,"(3R)-7-hydroxy-N-[(2S)-1-[4-(3-hydroxyphenyl)piperidin-1-yl]-3-methylbutan-2-yl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide",10.1021/cn500367b
+P35372,4988,β-FNA,1631,5311018,No,Antagonist,Antagonist,pKi,9.5,9686407,319,μ receptor,Human,OPRM1,beta-Funaltrexamine,NULL
+P35372,4988,BNTX,1634,6438353,No,Antagonist,Antagonist,pKi,8.8,9686407,319,μ receptor,Human,OPRM1,"Morphinan-6-one, 17-(cyclopropylmethyl)-4,5-epoxy-3,14-dihydroxy-7-(phenylmethylene)-, (5alpha)-",NULL
+P35372,4988,(-)-bremazocine,1603,443406,No,Antagonist,Antagonist,pKi,9.7,9686407,319,μ receptor,Human,OPRM1,(-)-Bremazocine,NULL
+P35372,4988,CTAP,1635,44309215,No,Antagonist,Antagonist,pKi,8.6,9686407|6313901,319,μ receptor,Human,OPRM1,Ctap,NULL
+P35372,4988,CTOP,1674,5311058,No,Antagonist,Antagonist,pKi,9.7,8114680,319,μ receptor,Human,OPRM1,Ctop-NH2,NULL
+P35372,4988,diprenorphine,1617,443408,No,Antagonist,Antagonist,pKi,9.1,9686407,319,μ receptor,Human,OPRM1,Diprenorphine,NULL
+P35372,4988,GSK1521498,9287,24737629,Yes,Antagonist,Antagonist,pKi,9.38,24973897,319,μ receptor,Human,OPRM1,"[1,1'-Biphenyl]-4-methanamine, N-(2,3-dihydro-1H-inden-2-yl)-3,5-difluoro-3'-(1H-1,2,4-triazol-5-yl)-",10.1007/s00213-014-3666-3
+P35372,4988,levallorphan,7209,5359371,Yes,Antagonist,Antagonist,pKi,8.77 - 9.32,21621410,319,μ receptor,Human,OPRM1,Levallorphan,10.1016/j.bmcl.2011.05.008
+P35372,4988,LY2456302,9194,44129648,No,Antagonist,Antagonist,pKi,7.62,24071566,319,μ receptor,Human,OPRM1,"(S)-4-(4-((2-(3,5-diMethylphenyl)pyrrolidin-1-yl)Methyl)phenoxy)-3-fluorobenzaMide",10.1016/j.neuropharm.2013.09.021
+P35372,4988,methylnaltrexone,7563,5361918,Yes,Antagonist,Antagonist,pKi,8.7,19282177,319,μ receptor,Human,OPRM1,Methylnaltrexone,10.1016/j.bmcl.2009.02.078
+P35372,4988,naldemedine,9150,54732242,Yes,Antagonist,Antagonist,pKi,8.95,30446313,319,μ receptor,Human,OPRM1,Naldemedine,10.1016/j.bmcl.2018.11.007
+P35372,4988,nalmefene,1628,5284594,Yes,Antagonist,Antagonist,pKi,9.5,9686407,319,μ receptor,Human,OPRM1,Nalmefene,NULL
+P35372,4988,nalorphine,1629,5284595,Yes,Antagonist,Antagonist,pKi,8.9,9686407,319,μ receptor,Human,OPRM1,Nalorphine,NULL
+P35372,4988,naloxone,1638,5284596,No,Antagonist,Antagonist,pKi,8.9,9686407,319,μ receptor,Human,OPRM1,Naloxone,NULL
+P35372,4988,naloxone benzoylhydrazone,1664,9601084,No,Antagonist,Antagonist,pKi,8.7,9686407,319,μ receptor,Human,OPRM1,Naloxone benzoylhydrazone,NULL
+P35372,4988,naloxone benzoylhydrazone,1664,9601084,No,Antagonist,Antagonist,pKi,8.2,9686407,319,μ receptor,Human,OPRM1,Naloxone benzoylhydrazone,NULL
+P35372,4988,naltrexone,1639,5360515,Yes,Antagonist,Antagonist,pKi,9.15 - 9.7,9686407|24973897,319,μ receptor,Human,OPRM1,Naltrexone,10.1007/s00213-014-3666-3
+P35372,4988,naltriben,1640,5486827,No,Antagonist,Antagonist,pKi,7.9,9686407,319,μ receptor,Human,OPRM1,Naltriben,NULL
+P35372,4988,naltrindole,1641,5497186,No,Antagonist,Antagonist,pKi,8.2,9686407,319,μ receptor,Human,OPRM1,Naltrindole,NULL
+P35372,4988,NMRA-140,10452,137434175,No,Antagonist,Antagonist,pIC50,6.96,30707578,319,μ receptor,Human,OPRM1,"4-Piperidinamine, 1-[6-ethyl-8-fluoro-4-methyl-3-(3-methyl-1,2,4-oxadiazol-5-yl)-2-quinolinyl]-N-(tetrahydro-2H-pyran-4-yl)-",10.1021/acs.jmedchem.8b01679
+P35372,4988,nor-binaltorphimine,1642,5480230,No,Antagonist,Antagonist,pKi,7.7,9686407,319,μ receptor,Human,OPRM1,Norbinaltorphimine,NULL
+P35372,4988,quadazocine,1633,115077,No,Antagonist,Antagonist,pKi,10,9686407,319,μ receptor,Human,OPRM1,Quadazocine,NULL
+P35372,4988,samidorphan,10651,11667832,No,Antagonist,Antagonist,pKi,10.28,15808478,319,μ receptor,Human,OPRM1,Samidorphan,10.1016/j.bmcl.2005.02.032
+P35372,4988,zyklophin,9193,45483651,No,Antagonist,Antagonist,pKi,5.23,15999987,319,μ receptor,Human,OPRM1,Zyklophin,10.1021/jm050105i

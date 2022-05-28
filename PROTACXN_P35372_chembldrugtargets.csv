@@ -1,0 +1,53 @@
+﻿mecid,cid,chemblid,drugname,moa,action,targetchemblid,targetname,protacxns,geneids,pmids,cmpdname,dois
+   2306,56959086,CHEMBL2219416,NALOXEGOL OXALATE,Mu opioid receptor antagonist,ANTAGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Naloxegol oxalate,NULL
+2315,11250029,CHEMBL2159122,ELUXADOLINE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Eluxadoline,NULL
+4922,71484494,CHEMBL2364619,METHYLSAMIDORPHAN,Mu opioid receptor antagonist,ANTAGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,22056608,Methylsamidorphan,10.1016/j.pbb.2011.10.019
+4933,67156338,CHEMBL3137313,AXELOPRAN,Mu opioid receptor antagonist,ANTAGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,23549670,Axelopran,10.1007/s00210-013-0850-7
+4940,11667832,CHEMBL426084,SAMIDORPHAN,Mu opioid receptor antagonist,ANTAGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,23381803,Samidorphan,10.1002/eat.22114
+4998,9813414,CHEMBL2103829,FAXELADOL,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,22337471,Faxeladol,10.1002/j.1532-2149.2011.00069.x
+5001,11300448,CHEMBL3989680,AXOMADOL,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Axomadol,NULL
+5015,118753644,CHEMBL3545408,NALTALIMIDE,Mu opioid receptor partial agonist,PARTIAL AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,24928951,"2-[(4aS,7R,12bS)-3-(cyclopropylmethyl)-4a,9-dihydroxy-1,2,4,5,6,7,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl]isoindole-1,3-dione",10.1124/jpet.114.214031
+5085,9829352,CHEMBL3989481,FRAKEFAMIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,15728057,Frakefamide,10.1213/01.ane.0000145011.75545.c5
+5356,54732242,CHEMBL2105755,NALDEMEDINE,Mu opioid receptor antagonist,ANTAGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,23900996,Naldemedine,10.1007/s11894-013-0344-2
+5377,10452732,CHEMBL3039511,BEVENOPRAN,Mu opioid receptor antagonist,ANTAGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Bevenopran,NULL
+5814,66553195,CHEMBL2443262,OLICERIDINE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,27778501,Oliceridine,10.1021/acs.biochem.6b00948
+6164,56837137,CHEMBL3039508,NALDEMEDINE TOSYLATE,Mu opioid receptor antagonist,ANTAGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,23900996,Naldemedine tosylate,10.1007/s11894-013-0344-2
+6176,5284603,CHEMBL656,OXYCODONE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Oxycodone,NULL
+704,5462347,CHEMBL1237055,HYDROMORPHONE HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Hydromorphone hydrochloride,NULL
+705,23724882,CHEMBL3989826,OXYCODONE TEREPHTHALATE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Oxycodone terephthalate,NULL
+706,71420,CHEMBL1707,LOPERAMIDE HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,10087042|23022331,Loperamide hydrochloride,10.1016/j.ejphar.2012.09.022
+707,9971980,CHEMBL1237065,TRAMADOL HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,2-(Dimethylaminomethyl)-1-(3-methoxyphenyl)cyclohexanol hydrochloride,NULL
+708,64761,CHEMBL1200531,ALFENTANIL HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,21215785,Alfentanil hydrochloride,10.1016/j.yrtph.2010.12.007
+709,53447387,CHEMBL1200599,DIFENOXIN HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,14978639,Difenoxin hydrochloride,10.1053/j.gastro.2003.10.007
+710,6432394,CHEMBL1200665,DIPHENOXYLATE HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,14978639,Diphenoxylate hydrochloride,10.1053/j.gastro.2003.10.007
+711,83932,CHEMBL1201159,FENTANYL HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Fentanyl hydrochloride,NULL
+712,13810,CHEMBL688,FENTANYL CITRATE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Fentanyl citrate,NULL
+713,5462350,CHEMBL1200890,OXYCODONE HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Oxycodone hydrochloride,NULL
+714,6321225,CHEMBL2103744,MORPHINE SULFATE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Morphine sulfate pentahydrate,NULL
+715,33544,CHEMBL3989716,PROPOXYPHENE NAPSYLATE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,17122535,d-Propoxyphene napsylate hydrate,10.1097/01.mjt.0000253850.86480.fb
+716,5488548,CHEMBL270190,ALVIMOPAN,Mu opioid receptor antagonist,ANTAGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Alvimopan,NULL
+717,5750,CHEMBL1701,MEPERIDINE HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,21215785,Meperidine hydrochloride,10.1016/j.yrtph.2010.12.007
+718,14184,CHEMBL1200825,METHADONE HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Methadone hydrochloride,NULL
+719,15424,CHEMBL1237104,PROPOXYPHENE HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,17122535,Propoxyphene hydrochloride,10.1097/01.mjt.0000253850.86480.fb
+720,20831727,CHEMBL3989768,LEVORPHANOL TARTRATE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,"2,3-dihydroxybutanedioic acid;(1R,9R,10R)-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-4-ol;dihydrate",NULL
+721,18601660,CHEMBL2062266,DIHYDROCODEINE BITARTRATE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,11762966,Dihydrocodeine bitartrate cii,10.1007/s005200100252
+722,60814,CHEMBL1201120,REMIFENTANIL HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Remifentanil hydrochloride,NULL
+723,5361917,CHEMBL1201770,METHYLNALTREXONE BROMIDE,Mu opioid receptor antagonist,ANTAGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Methylnaltrexone bromide,NULL
+724,65494,CHEMBL1201163,SUFENTANIL CITRATE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,21215785,Sufentanil citrate,10.1016/j.yrtph.2010.12.007
+725,3345,CHEMBL596,FENTANYL,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Fentanyl,NULL
+726,39371,CHEMBL1200817,LEVOMETHADYL ACETATE HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,9707384,Levomethadyl acetate hydrochloride,10.1001/archpsyc.55.8.729
+727,9848989,CHEMBL2368861,BUPRENORPHINE HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Buprenorphine hydrochloride ciii,NULL
+728,197194,CHEMBL1201047,ANILERIDINE HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,7541439,Anileridine hydrochloride,10.1016/0885-3924(95)00012-n
+729,3033053,CHEMBL1685,DEZOCINE,Mu opioid receptor partial agonist,PARTIAL AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,1348168,Dezocine,10.1213/00000539-199204000-00010
+730,16051989,CHEMBL1200543,ANILERIDINE PHOSPHATE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,7541439,Anileridine phosphate,10.1016/0885-3924(95)00012-n
+731,9838021,CHEMBL1201777,TAPENTADOL HYDROCHLORIDE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Tapentadol hydrochloride,NULL
+732,24840146,CHEMBL299400,BUTORPHANOL TARTRATE,Mu opioid receptor partial agonist,PARTIAL AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Butorphanol tartrate,NULL
+733,9848990,CHEMBL511142,BUPRENORPHINE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,"(1S,2S,6R,14R,15S,16R)-5-(cyclopropylmethyl)-16-[(2S)-2-hydroxy-3,3-dimethylbutan-2-yl]-15-methoxy-13-oxa-5-azahexacyclo[13.2.2.12,8.01,6.02,14.012,20]icosa-8(20),9,11-trien-11-ol",NULL
+734,16051988,CHEMBL2062276,LEVALLORPHAN TARTRATE,Mu opioid receptor antagonist,ANTAGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,4030925,Naloxiphane tartrate,10.1038/jcbfm.1985.64
+7815,24737629,CHEMBL4297383,GSK-1521498,Mu opioid receptor antagonist,ANTAGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,26141191|23147384,Gsk-1521498,10.1007/s00213-015-3995-x|10.1038/mp.2012.154
+7837,11154544,CHEMBL3219616,CP-866087,Mu opioid receptor antagonist,ANTAGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,23347610,"Methanesulfonamide, N-(3-(3-((2,3-dihydro-2-hydroxy-1H-inden-2-yl)methyl)-6-ethyl-3-azabicyclo(3.1.0)hex-6-yl)phenyl)-",10.1111/jsm.12071
+8032,145993966,CHEMBL4297632,OXYCODEGOL,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,31361019,Oxicodegol,10.1093/pm/pnz169
+8033,92042890,CHEMBL4594402,ORP-101,Mu opioid receptor partial agonist,PARTIAL AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,29470146,Unii-SE6KE496VO,10.1152/ajpgi.00013.2018
+8034,41049,CHEMBL314437,MEPTAZINOL,Mu opioid receptor partial agonist,PARTIAL AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,6141283|24076545,Meptazinol,10.1124/pr.112.007138
+9004,53362094,CHEMBL2105749,SAMIDORPHAN L-MALATE,Mu opioid receptor antagonist,ANTAGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Samidorphan L-malate,NULL
+9118,5462328,CHEMBL459324,DIACETYLMORPHINE,Mu opioid receptor agonist,AGONIST,CHEMBL233,Mu opioid receptor,P35372,4988,NULL,Heroin,NULL
