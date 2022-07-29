@@ -17,8 +17,8 @@ QSAR models for the ASPIRE Grant Project
   - Bit Vector (1024-bit) -> Truncated SVD
 
 ## Dimensionality reduction technique
-- Linear Discriminant Analysis (LDA) - (Fisher Variation) creates the best separation between classes. (50:50 train:test)
-- TSNE is used in visualization
+- **Linear Discriminant Analysis (LDA) - (Fisher Variation)** creates the best separation between classes. (50:50 train:test)
+- **T-distributed Stochastic Neighbor Embedding (TSNE)** is used in visualization
 - Mol2vec
 
   ![image](https://user-images.githubusercontent.com/69520909/181805262-2ccc023b-9eb2-45f0-9dd7-65936a974ea6.png)
