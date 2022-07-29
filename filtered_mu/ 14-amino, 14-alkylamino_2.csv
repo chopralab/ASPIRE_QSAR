@@ -1,0 +1,18 @@
+PUBCHEM_CID,Standard_Type_0,Standard_Value_0,Standard_Units_0,Standard_Type_1,Standard_Value_1,Standard_Units_1,Standard_Type_2,Standard_Value_2,Standard_Units_2,Standard_Type_3,Standard_Value_3,Standard_Units_3,Standard_Type_4,Standard_Value_4,Standard_Units_4,Standard_Type_5,Standard_Value_5,Standard_Units_5
+105104,EC50,10000,nM,Ki,1145,nM,Stimulation,10000,%,,,,,,,,,
+5462471,EC50,13.7,nM,Ki,0.5,nM,Stimulation,100,%,,,,,,,,,
+44299404,EC50,10000,nM,Ki,504,nM,Stimulation,10000,%,,,,,,,,,
+71450932,EC50,272,nM,Ki,37.2,nM,Stimulation,40,%,,,,,,,,,
+71452746,EC50,184,nM,Ki,76.3,nM,Stimulation,50,%,,,,,,,,,
+71456256,EC50,51.4,nM,Ki,33.4,nM,,,,,,,,,,Stimulation,44,%
+71456257,EC50,45.1,nM,Ki,10.2,nM,,,,,,,,,,Stimulation,50,%
+10323346,EC50,95,nM,Ki,29.3,nM,Stimulation,53,%,,,,,,,,,
+71456258,EC50,149,nM,Ki,51.1,nM,,,,Activity,31,%,,,,,,
+71458065,EC50,5.2,nM,Ki,9.61,nM,Stimulation,27,%,,,,,,,,,
+71461667,EC50,1000,nM,Ki,1051,nM,,,,,,,,,,,,
+71461668,EC50,21.5,nM,Ki,4.91,nM,Stimulation,91,%,,,,,,,,,
+10435156,EC50,5.33,nM,Ki,1.68,nM,Stimulation,93,%,,,,,,,,,
+5491897,,,,Ki,363,nM,,,,,,,,,,,,
+5497186,,,,Ki,6.3,nM,,,,,,,EC50,4.26,Ke nM-1,,,
+5480230,,,,Ki,21,nM,,,,,,,EC50,18.9,Ke nM-1,,,
+5360515,,,,Ki,0.2,nM,,,,Activity,,,EC50,0.59,Ke nM-1,,,

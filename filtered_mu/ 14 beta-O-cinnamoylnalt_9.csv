@@ -1,0 +1,9 @@
+PUBCHEM_CID,Standard_Type_0,Standard_Value_0,Standard_Units_0,Standard_Type_1,Standard_Value_1,Standard_Units_1,Standard_Type_2,Standard_Value_2,Standard_Units_2,Standard_Type_3,Standard_Value_3,Standard_Units_3
+44417373,Ki,4.8,nM,Ke,0.97,nM,EC50,17.8,nM,Activity,8,%
+6540640,Ki,3,nM,Ke,0.53,nM,,,,,,
+25257431,Ki,2.5,nM,,,,EC50,34.4,nM,Activity,35,%
+25257432,Ki,3.5,nM,Ke,8.2,nM,,,,,,
+25257433,Ki,4.2,nM,Ke,6.4,nM,,,,,,
+44565511,Ki,0.34,nM,,,,,,,,,
+5360515,Ki,0.2,nM,Ke,0.59,nM,,,,,,
+5288826,,,,,,,EC50,15.6,nM,Activity,93,%

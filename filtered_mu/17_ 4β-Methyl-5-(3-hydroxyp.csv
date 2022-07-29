@@ -1,0 +1,11 @@
+PUBCHEM_CID,Standard_Type_0,Standard_Value_0,Standard_Units_0,Standard_Type_1,Standard_Value_1,Standard_Units_1,Standard_Type_2,Standard_Value_2,Standard_Units_2,Standard_Type_3,Standard_Value_3,Standard_Units_3,Standard_Type_4,Standard_Value_4,Standard_Units_4
+76324412,Intrinsic activity,5,uM,Ki,1.61,nM,Ke,1.9,nM,,,,,,
+72713100,,,,Ki,1.66,nM,Ke,,,Emax,57,%,EC50,18,nM
+72713102,,,,Ki,0.28,nM,Ke,,,Emax,104,%,EC50,6.5,nM
+72713099,,,,Ki,3.35,nM,Ke,,,Emax,14,%,EC50,33,nM
+72713104,,,,Ki,0.43,nM,Ke,,,Emax,109,%,EC50,2.7,nM
+72713098,,,,Ki,0.371,nM,Ke,,,Emax,105,%,EC50,15,nM
+72713101,,,,Ki,7.55,nM,Ke,,,Emax,52,%,EC50,130,nM
+16082873,,,,,,,Ke,,,Emax,44,%,EC50,20.6,nM
+90664881,,,,,,,Ke,,,Emax,74,%,EC50,19.5,nM
+72713103,,,,,,,Ke,,,Emax,94,%,EC50,60,nM

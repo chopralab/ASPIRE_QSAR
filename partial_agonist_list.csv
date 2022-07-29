@@ -1,0 +1,6 @@
+﻿name,cid,smiles,receptor,moa
+(R)-reticuline,440586,CN1CCC2=CC(=C(C=C2C1CC3=CC(=C(C=C3)OC)O)O)OC,mu,partial agonist
+salutaridine,5408233,CN1CCC23C=C(C(=O)C=C2C1CC4=C3C(=C(C=C4)OC)O)OC,mu,partial agonist
+salutaridinol,5460042,CN1CCC23C=C(C(C=C2C1CC4=C3C(=C(C=C4)OC)O)O)OC,mu,partial agonist
+thebaine,5324289,CN1CCC23C4C(=CC=C2C1CC5=C3C(=C(C=C5)OC)O4)OC,mu,partial agonist
+codine,5284371,CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(C=C4)O,mu,partial agonist

@@ -1,0 +1,9 @@
+PUBCHEM_CID,Standard_Type_0,Standard_Value_0,Standard_Units_0,Standard_Type_1,Standard_Value_1,Standard_Units_1,Standard_Type_2,Standard_Value_2,Standard_Units_2,Standard_Type_3,Standard_Value_3,Standard_Units_3,Standard_Type_4,Standard_Value_4,Standard_Units_4,Standard_Type_5,Standard_Value_5,Standard_Units_5,Standard_Type_6,Standard_Value_6,Standard_Units_6,Standard_Type_7,Standard_Value_7,Standard_Units_7,Standard_Type_8,Standard_Value_8,Standard_Units_8
+10086063,Imax,76,%,IC50,5.6,nM,Emax,24,%,EC50,2.7,nM,,,,,,,,,,,,,,,
+44240972,Imax,87,%,IC50,150,nM,Emax,31,%,EC50,1.7,nM,,,,,,,,,,,,,Ki,0.33,nM
+44240971,Imax,79,%,IC50,120,nM,Emax,33,%,EC50,2.2,nM,,,,,,,,,,,,,Ki,0.065,nM
+57900041,Imax,83,%,IC50,110,nM,Emax,28,%,EC50,0.85,nM,,,,,,,,,,,,,Ki,0.064,nM
+44241022,Imax,87,%,IC50,250,nM,Emax,30,%,EC50,4.5,nM,,,,,,,,,,,,,Ki,0.61,nM
+57900045,Imax,53,%,IC50,75,nM,Emax,25,%,EC50,19,nM,,,,,,,,,,,,,Ki,0.82,nM
+16006949,,,,,,,,,,,,,Imax,99,%,IC50,150,nM,Emax,5.6,%,,,,,,
+5462471,,,,,,,,,,,,,,,,Inhibition,,,Emax,116,%,EC50,55,nM,,,

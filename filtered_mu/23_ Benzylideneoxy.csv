@@ -1,0 +1,5 @@
+PUBCHEM_CID,Standard_Type_0,Standard_Value_0,Standard_Units_0,Standard_Type_1,Standard_Value_1,Standard_Units_1,Standard_Type_2,Standard_Value_2,Standard_Units_2
+5462471,Ki,1.5,nM,,,,,,
+137641064,Ki,313,nM,EC50,,,Emax,10,%
+137646080,Ki,17.5,nM,EC50,72,nM,Emax,39,%
+137655663,Ki,56,nM,EC50,253,nM,Emax,52,%
