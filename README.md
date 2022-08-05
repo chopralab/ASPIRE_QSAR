@@ -1,6 +1,17 @@
 # ASPIRE_QSAR
 QSAR models for the ASPIRE Grant Project
 
+## Background
+Aims to utilize machine learning methodology for candidate Non-Addictive Opioid MOA prediction, in which major clusters used for separation are full agonist, paritial agonist, antagonist. Both Unsupervised and Supervised learning techniques are used for prediction, then grid search performed on the best model to conduct hyperparameter optimization. Current work only supports **mu opioid receptors**. 
+
+## Installation and Setup
+1. Create conda enviroment using the yml file provided
+
+`conda env create -f ASPIRE_QSAR.yml`
+
+2. Run `morganFP_analysis2.ipynb` or `mol2vec_analysis3.ipynb` to view the full analysis on MOA prediction.
+
+
 ## Features
 - Mol2Vec 
   - Corpus is generated from morgan identifiers (up to selected radius) which represents words (molecules and sentences). 
@@ -27,7 +38,6 @@ QSAR models for the ASPIRE Grant Project
 
   ![image](https://user-images.githubusercontent.com/69520909/181805431-1025ef69-9a04-4d0b-9b3e-d5cb6a6108b8.png)
 
-
 ## Clustering technique
 - Due to the spherical nature of the clusters, K-means performs the best when clustering the data.
 - True Labels are paired with predicted clusters based on their cluster count to determine quality clusters.
@@ -38,9 +48,10 @@ QSAR models for the ASPIRE Grant Project
 - Morgan Fingerprint Bit Vector
 
   ![image](https://user-images.githubusercontent.com/69520909/181806239-bcdc8c3c-6484-47c0-99de-9ee01f750bc5.png)
- 
   
-
+## Supervised classification + Grid Search
+- Random Forest, Support Vector Classifier, Decision Tree, K-neighbors classifier, Naive Bayes, Gradient Boosting Classifier, Linear Discriminant Analysis (top model from unsupervised) are placed on Grid Search for hyperparameter optimization and tuning.
+- Multiple runs on grid search shows that major classifiers stated did not outperform LDA by a significant margin, only raising classification accuracy by 2-3%.
   
    
   
