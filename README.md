@@ -43,11 +43,11 @@ Aims to utilize machine learning methodology for candidate Non-Addictive Opioid 
 - True Labels are paired with predicted clusters based on their cluster count to determine quality clusters.
 - Mol2vec
   
-  ![image](https://user-images.githubusercontent.com/69520909/181806173-287d101e-1db0-40f1-a479-036f4fe0bbbd.png)
+  ![image](https://user-images.githubusercontent.com/69520909/183005234-1ab6f285-186d-4778-b148-81da1a935b04.png)
 
 - Morgan Fingerprint Bit Vector
 
-  ![image](https://user-images.githubusercontent.com/69520909/181806239-bcdc8c3c-6484-47c0-99de-9ee01f750bc5.png)
+  ![image](https://user-images.githubusercontent.com/69520909/183005318-c6a1ae64-3161-40bf-b37e-cb8ffe802281.png)
   
 ## Supervised classification + Grid Search
 - Random Forest, Support Vector Classifier, Decision Tree, K-neighbors classifier, Naive Bayes, Gradient Boosting Classifier, Linear Discriminant Analysis (top model from unsupervised) are placed on Grid Search for hyperparameter optimization and tuning.
