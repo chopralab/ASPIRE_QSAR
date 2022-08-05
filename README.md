@@ -32,11 +32,11 @@ Aims to utilize machine learning methodology for candidate Non-Addictive Opioid 
 - **T-distributed Stochastic Neighbor Embedding (TSNE)** is used in visualization
 - Mol2vec
 
-  ![image](https://user-images.githubusercontent.com/69520909/181805262-2ccc023b-9eb2-45f0-9dd7-65936a974ea6.png)
+  ![image](https://user-images.githubusercontent.com/69520909/183003806-5bb1144d-54fb-4f7c-b2d2-4ebf2cf8ceff.png)
   
 - Morgan Fingerprint Bit Vector
 
-  ![image](https://user-images.githubusercontent.com/69520909/181805431-1025ef69-9a04-4d0b-9b3e-d5cb6a6108b8.png)
+  ![image](https://user-images.githubusercontent.com/69520909/183003987-d1cdb81d-3cfe-443b-ad0f-0937d7573ce0.png)
 
 ## Clustering technique
 - Due to the spherical nature of the clusters, K-means performs the best when clustering the data.
@@ -51,7 +51,7 @@ Aims to utilize machine learning methodology for candidate Non-Addictive Opioid 
   
 ## Supervised classification + Grid Search
 - Random Forest, Support Vector Classifier, Decision Tree, K-neighbors classifier, Naive Bayes, Gradient Boosting Classifier, Linear Discriminant Analysis (top model from unsupervised) are placed on Grid Search for hyperparameter optimization and tuning.
-- Multiple runs on grid search shows that major classifiers stated did not outperform LDA by a significant margin, only raising classification accuracy by 2-3%.
+- Multiple runs on grid search shows that major classifiers stated did not outperform LDA by a significant margin, only raising or lowering classification accuracy and f1_macro metrics by 2-3%.
   
    
   
