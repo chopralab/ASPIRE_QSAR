@@ -32,7 +32,7 @@ Aims to utilize machine learning methodology for candidate Non-Addictive Opioid 
 - **T-distributed Stochastic Neighbor Embedding (TSNE)** is used in visualization
 - Mol2vec
 
-  ![image](https://user-images.githubusercontent.com/69520909/183003806-5bb1144d-54fb-4f7c-b2d2-4ebf2cf8ceff.png)
+  ![image](https://user-images.githubusercontent.com/69520909/183004871-ae49e036-7290-43d8-ad9b-ae3148da26b4.png)
   
 - Morgan Fingerprint Bit Vector
 
